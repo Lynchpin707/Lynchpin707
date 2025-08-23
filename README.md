@@ -1,5 +1,10 @@
-### Hi, I'm Lina !
-🎓 Data engineering student @ ENSIAS - Rabat, Morocco<br>🚀 Driven by both execution and context<br>🌱 Building reliable systems with an understanding of when, why, and how to apply data solutions that serve real business needs.
+<div align="center">
+ 
+# 👋 Hello, I'm Lynchpin707!
+</div>
+🎓 Data Engineering Student | ENSIAS - Rabat, Morocco<br>🚀 Driven by both execution and context<br>🌱 Building reliable systems with an understanding of when, why, and how to apply data solutions that serve real business needs.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-raoui-2a5747191/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:linaraoui12@gmail.com) 
@@ -56,14 +61,15 @@
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
 
-## My Services : 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](#)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)
-
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lynchpin707&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynchpin707&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynchpin707&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Lynchpin707&theme=gruvbox&hide_border=false)
+
+</div>
 
 
 ### Currently focusing on:
