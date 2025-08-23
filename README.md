@@ -78,10 +78,4 @@
 - Cloud fundamentals (AWS + Azure basics)
 - Big data tools: Spark, Kafka, and batch vs streaming
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lynchpin707&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Lynchpin707&icon=0&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
