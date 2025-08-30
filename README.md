@@ -2,9 +2,7 @@
  
 # 👋 Hello, I'm Lynchpin707!
 </div>
-🎓 Data Engineering Student | ENSIAS - Rabat, Morocco<br>🚀 Driven by both execution and context<br>🌱 Building reliable systems with an understanding of when, why, and how to apply data solutions that serve real business needs.
-
-
+I am a Data Engineering Student at ENSIAS - Rabat, Morocco. Driven by both execution and context to build reliable systems with an understanding of when, why, and how to apply data solutions that serve real business needs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-raoui-2a5747191/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:linaraoui12@gmail.com) 
@@ -22,6 +20,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#)
 #### Data Engineering & Databases:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
@@ -70,12 +69,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Lynchpin707&theme=gruvbox&hide_border=false)
 
 </div>
-
-
-### Currently focusing on:
-
-- Building scalable data pipelines (SQL, PostgreSQL, ETL)
-- Cloud fundamentals (AWS + Azure basics)
-- Big data tools: Spark, Kafka, and batch vs streaming
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
