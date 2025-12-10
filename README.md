@@ -1,6 +1,6 @@
 <div align="center">
  
-## Hey there !
+# Hey there !
 
 
 I’m Lina, a Junior Data Engineer and Machine Learning enthusiast based in Morocco.
@@ -11,7 +11,7 @@ This GitHub is my ongoing diary of experiments, projects and everything I’m le
 
 <div align="center">
  
-## The tools i frequently use:
+# The tools i frequently use
 
 </div>
  
@@ -54,8 +54,11 @@ This GitHub is my ongoing diary of experiments, projects and everything I’m le
 
 
  
-## Contact me on :
+
 <div align="center">
+	
+# Contact me on
+	
  <a href="https://www.linkedin.com/in/lina-raoui-2a5747191/">
 	 <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="Linkedin" title="Linkedin"/>
  </a>
