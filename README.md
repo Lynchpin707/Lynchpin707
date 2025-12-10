@@ -10,6 +10,20 @@ This GitHub is my ongoing diary of experiments, projects and everything I’m le
 </div>
 
 <div align="center">
+
+<div align="center">
+	
+# Contact me via
+	
+ <a href="https://www.linkedin.com/in/lina-raoui-2a5747191/">
+	 <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="Linkedin" title="Linkedin"/>
+ </a>
+ 
+ <a href="mailto:linaraoui12@gmail.com">
+  <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" alt="Gmail" title="Gmail"/>
+ </a> 
+ 
+</div>
  
 # The tools i frequently use
 
@@ -52,20 +66,8 @@ This GitHub is my ongoing diary of experiments, projects and everything I’m le
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/>
 </div>
 
-
- 
-
 <div align="center">
 	
-# Contact me on
-	
- <a href="https://www.linkedin.com/in/lina-raoui-2a5747191/">
-	 <img width="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="Linkedin" title="Linkedin"/>
- </a>
- <a href="mailto:linaraoui12@gmail.com">
-  <img width="60" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" alt="Hadoop" title="Hadoop"/>
- </a> 
-</div>
 
 
 
