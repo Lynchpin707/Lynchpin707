@@ -67,8 +67,11 @@ This GitHub is my ongoing diary of experiments, projects and everything I’m le
 </div>
 
 <div align="center">
-	
+
+</br>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynchpin707&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
+</div>
