@@ -66,12 +66,4 @@ This GitHub is my ongoing diary of experiments, projects and everything I’m le
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/>
 </div>
 
-<div align="center">
 
-</br>
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynchpin707&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
