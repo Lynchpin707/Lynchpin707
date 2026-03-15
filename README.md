@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="30%" valign="top">
+    <td width="40%" valign="center">
       <img src="octocat-1773591547807.png" alt="My Octocat" title="My Octocat" width="100%"/>
     </td>
     <td valign="center">
