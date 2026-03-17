@@ -66,7 +66,9 @@
 </p>
 
 <br>
-<br>
+<p align="center">
+<img align="center" width="100%" height="300px" src="https://git-stats-abdellaoui.vercel.app/api/top-langs/?username=lynchpin707&theme=moltack&layout=compact&langs_count=18"/>
+</p>
 <br>
 
 
